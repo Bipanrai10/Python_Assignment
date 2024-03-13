@@ -3,7 +3,7 @@ Python_assignment(3)
 
 
 In Question 1
-We are making a simple Calculator using python where we took the user input for A and B along with an operator(+,-,*,/) which we inistated by (1,2,3,4) using if loop with select function/condition where we use select function for each if loop for addition,subtraction,multplication,division accourding to operator(1[+],2[-],3[*],4[/]) user choose And with the  program that can handel any value errors that may occur.
+We are making a simple Calculator using python where we took the user input for A and B Then the program  presents a menu of mathematical operations (addition, subtraction, multiplication, and division) and asks the user to select an operation(1,2,3,4). Based on the users choice  the program performs the corresponding operation and ,displays the result. and the  program can handel any value errors that may occur.
 
 In Question 2
 we are calculating  the grade of a student using python where we user input the marks of subject and find their percentage to  determine if the student got A+,A,A-,B+,B,B- according to Condition(if loop with percentage) given in question or he/she is fail.
